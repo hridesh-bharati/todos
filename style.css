@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-dark1 {
+    background: #202020;
+}
+
+.bg-dark2 {
+    background: #353535;
+}
+
+button {
+    border-radius: 0 !important;
+}
+
+input,
+textarea {
+    border: 0 !important;
+    border-radius: 0 !important;
+}
+
+input:focus,
+textarea:focus {
+    background: #acacac;
+}
